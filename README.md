@@ -14,7 +14,7 @@ Artifacts and Code Distribution for web publications, machine learning, and deep
 - [GAN - Dog Images](pytorch-DCGAN-Dog-Images/pytorch-DCGAN-Dog-Images.ipynb) (pytorch): Using the [Deep Convolutional Generative Adversarial Network (DCGAN) proposed by Radford, Metz and Chintala](https://arxiv.org/pdf/1511.06434.pdf), create a GAN model that creates new dog images from existing images.
   
 ### Classification
-- [Predict Customer Churn](xgboost-bank-churn/xgboost-churn.ipynb) (XGboost): Use XGboost algorithm to predict customer churn based on customer demographic and behavior. 
+- [Predict Customer Churn](xgboost-bank-churn/xgboost-churn.ipynb) (XGboost): [Original Publication](https://medium.com/@manwill/predicting-customer-churn-using-aws-sagemaker-xgboost-462a9bc0907) Use XGboost algorithm to predict customer churn based on customer demographic and behavior. 
 - [Iris Classification](keras-classification-iris/NeuralNetwork_Iris_Classification.ipynb) (Keras): [Original Publication](https://medium.com/@manwill/iris-classification-using-a-keras-neural-network-39d735d11fda)  Using Toy Iris Dataset, classify which Iris flower based on the width and length of stem and petals by using an Artificial Neural Network.
 - [Iris Classification](sagemaker-deploy-model-by-artifact) (XGboost): Train a model using xgboost framework, save the model artifact in s3, and load for inferencing as an endpoint 
 - [Breast Cancer Detection](knn-breast-cancer/knn-breast-cancer.ipynb) (sklearn): [Original Publication](https://medium.com/@manwill/using-aws-sagemaker-k-nn-to-predict-breast-cancer-340ffbb40049)  Using breast cancer measurements, classify which patient has breast cancer using sklearn framework and AWS SageMaker.
