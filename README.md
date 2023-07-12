@@ -30,9 +30,7 @@ Artifacts and Code Distribution for web publications, machine learning, and deep
 ### Clustering
 - [k-means customer segmentation](sklearn-kmeans-customers-segmentation/sklearn-kmeans-customer.ipynb) (sklearn):[Original Publication](https://medium.com/@manwill/customer-segmentation-with-k-means-clustering-b911986b9b40)  Perform customer segmentation for market analysis using demographic data
 
-
-### Cloud
-## Amazon Web Services (AWS)
+### Amazon Web Services (AWS)
 - [AWS Kinesis Anomaly Detection](kinesis-anomaly-detection) (Kinesis): [Original Publication](https://medium.com/@manwill/implementing-aws-kinesis-data-analytics-anomaly-detection-in-5-steps-8714a3727543) Create a Kinesis Data Stream to receive events from an emitter. Report anomalies based on SQL query and AWS Random Cut Forest Algorithm.
 - [Breast Cancer Detection](knn-breast-cancer/knn-breast-cancer.ipynb) (SageMaker): [Original Publication](https://medium.com/@manwill/using-aws-sagemaker-k-nn-to-predict-breast-cancer-340ffbb40049) Using breast cancer measurements, classify which patient has breast cancer using sklearn framework and AWS SageMaker.
 - [Iris SepalLength Regresion](linreg-iris/LinearLearner-iris.ipynb) (SageMaker): Using Iris measurements, predict the size of SepalLengthCm using SepalWidthCm, PetalLengthCm, and PetalWidthCm. Utilizes AWS built-in algorithm, LinearLearner.
